@@ -1,0 +1,88 @@
+body{
+    padding:0px;
+    margin: 0px;
+    
+}
+#h1
+{
+border : 10px 70px;
+margin: 10px;
+position: relative;
+left: 150px;
+top: 40px;
+}
+#p1{   
+margin: 50px;
+border-left: 70px;
+top: 20px;
+position: relative; 
+font-family:'Times New Roman', Times, serif ;
+font-style: italic;
+}
+a{
+    text-decoration: none;
+    color: blue;
+
+}
+a:hover{
+    text-decoration:uderline;
+}
+.div1{
+    position:relative;
+    width:1000px;
+    left:10px;
+    right:10px; 
+    
+}
+.div2
+{
+    position:relative;
+    display: flex;
+    justify-content:space-between;
+    margin:20px;
+    padding:20px;
+    width:1000px;
+    left:10px;
+    right:10px; 
+    
+}
+span{
+    border:10px 10px;
+    padding: 10px;
+    text-align:center;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    line-height: 2.0;
+}
+.p3{
+    top : 40px;
+    position: relative;
+    left: 100px;
+    text-align: left;
+    margin: 30px 60px;
+}
+#smol{
+    font-family: 'Shadows Into Light', cursive;
+    position: relative:
+    left:100px;
+    margin:100px;
+    
+}
+#anish{
+    font-family:'Shadows Into Light', cursive;
+    position : relative;
+    left:100px;
+    margin:100px;
+}
+.pandemic{
+    width:1000px; 
+    position:relative;
+    left:85px;
+    margin:85px;
+}
+#boom{
+    display: flex;
+    justify-content:space-between;
+}
+
